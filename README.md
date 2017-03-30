@@ -4,9 +4,9 @@
 
 ## Build Setup
 
+``` bash
 # Open magpie/app folder in Terminal
 
-``` bash
 # install dependencies
 npm install
 
