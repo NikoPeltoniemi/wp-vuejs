@@ -1,19 +1,6 @@
 @import "normalize";
 @import "variables";
-@import "typography";
-@import "admin-bar";
 
 body {
-  font-size: $text-size-base;
   -webkit-font-smoothing: antialiased;
-  font-family: $fontfamily;
-}
-
-a {
-  color: black;
-  text-decoration: none;
-}
-
-section {
-  min-height: 50vh;
 }

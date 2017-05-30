@@ -1,4 +1,4 @@
-# Magpie Studio
+# Wordpress VueJS Boilerplate Theme
 
 > A Vue.js project
 
