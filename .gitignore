@@ -11,3 +11,5 @@ Thumbs.db
 app/build
 app/node_modules
 static/*
+npm-debug.log
+assets/
