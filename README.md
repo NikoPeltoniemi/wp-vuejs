@@ -1,6 +1,6 @@
 # Wordpress VueJS Starter Theme
 
-> A Vue.js project
+> A Vue.js project, based on https://github.com/vuejs-templates/webpack
 
 ## Build Setup
 
