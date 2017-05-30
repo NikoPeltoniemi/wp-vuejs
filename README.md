@@ -1,4 +1,4 @@
-# Wordpress VueJS Boilerplate Theme
+# Wordpress VueJS Starter Theme
 
 > A Vue.js project
 
