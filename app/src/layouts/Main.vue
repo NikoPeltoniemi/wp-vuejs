@@ -3,7 +3,6 @@
   <main>
     <main-menu/>
     <slot></slot>
-    <main-footer/>
   </main>
 
 </template>
