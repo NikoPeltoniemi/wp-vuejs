@@ -1,6 +1,6 @@
 // see http://vuejs-templates.github.io/webpack for documentation.
 var path = require('path')
-var theme_name = path.resolve(__dirname, '../../').split(path.sep).pop()
+var theme_name = path.resolve(__dirname, '../../').split(path.sep).pop() + '/'
 
 module.exports = {
   build: {
