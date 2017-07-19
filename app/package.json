@@ -9,13 +9,15 @@
     "build": "node build/build.js"
   },
   "dependencies": {
+    "axios": "^0.16.2",
     "css-loader": "^0.26.4",
     "node-sass": "^4.5.2",
     "sass-loader": "^6.0.3",
     "vue": "^2.2.2",
     "vue-router": "^2.2.0",
     "vue-scrollto": "^2.6.4",
-    "vue-style-loader": "^2.0.5"
+    "vue-style-loader": "^2.0.5",
+    "vuex": "^2.3.1"
   },
   "devDependencies": {
     "autoprefixer": "^6.7.2",
