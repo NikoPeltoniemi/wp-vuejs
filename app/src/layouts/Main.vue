@@ -8,10 +8,10 @@
 </template>
 
 <style lang="scss">
-  @import "main.scss";
-  @import "variables";
-  @import "typography";
-  @import "admin-bar";
+  @import "../styles/main.scss";
+  @import "../styles/variables";
+  @import "../styles/typography";
+  @import "../styles/admin-bar";
 </style>
 
 <script>

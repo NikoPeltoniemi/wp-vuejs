@@ -9,6 +9,6 @@
 
 <style lang="scss">
 
-  @import "../layouts/variables";
+  @import "../styles/variables";
 
 </style>

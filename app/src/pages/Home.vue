@@ -6,7 +6,7 @@
 
 <style lang="scss">
 
-  @import "../layouts/variables";
+  @import "../styles/variables";
 
   h1 {
     text-align: center;
