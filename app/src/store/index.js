@@ -11,10 +11,6 @@ const store = new Vuex.Store({
     FETCH_PAGES: function({commit, state}, $route) {
 
       var url = 'wp-json/wp/v2/pages/?orderby=menu_order&order=asc'
-      var draft = $route.query.draft
-      if(state.preview) {
-        url = url + '&include=' + $route.params.id + '&status=draft'
-      }
 
       HTTP.get(url)
       .then(response => {
@@ -24,7 +20,7 @@ const store = new Vuex.Store({
         console.log(e)
       })
     },
-    
+
   },
   mutations: {
 
